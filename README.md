@@ -1,14 +1,24 @@
 # ChibiBot Documentation
 
-Welcome to the official documentation repository for ChibiBot.
+Official documentation for **ChibiBot**, the community management and AI-powered Discord bot developed for the **AORUS India Discord Server**.
 
-## Documents
+## Documentation
 
-- Privacy Policy
-- Terms of Service
+- 📜 [Privacy Policy](privacy.md)
+- 📄 [Terms of Service](terms.md)
 
-## About
+## Features
 
-ChibiBot is a community management and AI-powered support bot developed for the AORUS India Discord community.
+- Community moderation
+- Ticket management
+- Administrative commands
+- AI-assisted support
+- Logging and moderation tools
 
-For support, please join the AORUS India Discord server.
+## Support
+
+For assistance, please contact the AORUS India moderation team through the official Discord server.
+
+## Disclaimer
+
+ChibiBot is an independent community management bot developed for the AORUS India Discord community. It is not affiliated with or endorsed by Discord Inc.
